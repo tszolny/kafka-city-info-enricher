@@ -1,0 +1,1 @@
+insert into cities(id, name, country) values (city_seq.nextval, 'KLUCZBORK', 'POLAND');
